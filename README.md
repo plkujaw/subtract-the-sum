@@ -134,3 +134,10 @@ There is no preloaded code to help you. This is not about coding skills; think b
 99-apple
 100-pineapple
 ```
+```
+describe "Basic Test" do
+  it "should return a fruit name" do
+    Test.assert_equals(subtract_sum(10), "apple")
+  end
+end
+```
