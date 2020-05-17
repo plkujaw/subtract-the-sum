@@ -13,19 +13,27 @@ Complete the function which get an input number `n` such that n >= 10 and n < 10
 
 Example
 
-`n = 325`
+n = 325
+
 sum = 3+2+5 = 10
+
 n = 325-10 = 315 (not in the list)
+
 sum = 3+1+5 = 9
+
 n = 315-9 = 306 (not in the list)
+
 sum = 3+0+6 = 9
+
 n =306-9 = 297 (not in the list)
+
 . .
+
 . ...until you find the first n in the list below.
 
 There is no preloaded code to help you. This is not about coding skills; think before you code
-
->> 1-kiwi
+```
+1-kiwi
 2-pear
 3-kiwi
 4-banana
@@ -125,3 +133,4 @@ There is no preloaded code to help you. This is not about coding skills; think b
 98-pineapple
 99-apple
 100-pineapple
+```
